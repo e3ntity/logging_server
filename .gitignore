@@ -1,4 +1,3 @@
 .vscode/
 app/lib/vendor/
 app/secret.php
-logs/*
